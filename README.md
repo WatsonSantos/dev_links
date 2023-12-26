@@ -52,10 +52,6 @@
 
 <br>
 
- <a href="https://vercel.org" target="_blank"> 
-  <img alt="vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
- </a>
-
 Link para teste: [Dev_links](https://watsonlinks.netlify.app/)
 
 <br>
