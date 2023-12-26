@@ -149,7 +149,7 @@ i{
 @media screen and (max-width: 640px){
     .links a{
 
-        width: 60%;
+        width: 80%;
     }
 
     .social-media {
@@ -160,7 +160,7 @@ i{
 @media screen and (max-width: 430px){
     .links a{
 
-        width: 70%;
+        width: 90%;
     }
 
     .social-media {
@@ -177,7 +177,7 @@ i{
 @media screen and (max-width: 320px){
     .links a{
 
-        width: 70%;
+        width: 90%;
     }
 
     .social-media {
